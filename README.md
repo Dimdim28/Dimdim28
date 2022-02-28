@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++, C</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@D_im0N](https://telegram.me/@D_im0N)</code>
+<code>💬 telegram: [@D_im0N](https://telegram.me/D_im0N)</code>
 <code>📫 [wwwdimanes1@gmail.com](mailto:wwwdimanes1@gmail.com)</code>
