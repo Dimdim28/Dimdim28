@@ -24,12 +24,12 @@
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | 🟩 weak collections | 🟩 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | 🟩 Proxy            | 🟩 return early      |
 | 🟨 generator         | 🟩 switch             | 🟩 memoize            | 🟩 Symbol           | 🟩 linter            |
-| 🟩 async function    | 🟩 new Error          | 🟩 factory            | 🟩 string parsing   | 🟩 prettier          |
+| 🟨 async function    | 🟩 new Error          | 🟩 factory            | 🟩 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟩 pool               | 🟩 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟩 wrapper            | 🟩 EventEmitter     | 🟩 git               |
 | 🟩 instanceof        |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
-| 🟩 ...spread         |                       |                       | 🟩 global           | 🟨 node.js           |
-| 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟨 npm               |
+| 🟩 ...spread         |                       |                       | 🟩 global           | 🟩 node.js           |
+| 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
 
 ## Multi-paradigm programming
