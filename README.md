@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-Dimdim28&color=blue)
+
 <code>🎓 Student: KPI / IM-13</code>
 <code>⚪ Community: KPI FICT</code>
 <code>👷 Speciality: Software engineer</code><br>
