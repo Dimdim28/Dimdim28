@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Dimdim28&color=blue)
 <br>
 
-
+![](https://www.codewars.com/users/Dimon72645/badges/large)
+<br>
 <code>🎓 Student: KPI / IM-13</code>
 <code>⚪ Community: KPI FICT</code>
 <code>👷 Speciality: Software engineer</code><br>
