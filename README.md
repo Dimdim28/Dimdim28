@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Dimdim28&color=blue)
-[![CodeWars](https://img.shields.io/badge/CodeWars-My_Profile-red)](https://www.codewars.com/users/Dimon72645)
 <br>
 
 
