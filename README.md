@@ -21,6 +21,11 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&theme=chartreuse-dark&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimdim28&theme=chartreuse-dark)
+
+
 
 
 
