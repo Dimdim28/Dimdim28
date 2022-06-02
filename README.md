@@ -18,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=CC6699)
-![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&theme=chartreuse-dark&layout=compact)
