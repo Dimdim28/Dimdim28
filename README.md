@@ -74,7 +74,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimdim28&theme=chartreuse-dark)
 
+### Codewars:
 
+![](https://www.codewars.com/users/Dimdim28/badges/large)
 
 
 
