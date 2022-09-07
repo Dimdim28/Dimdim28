@@ -19,11 +19,6 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 
-### Codewars:
-
-![](https://www.codewars.com/users/Dimdim28/badges/large)
-
-
 ### :books:Languages: 
 <div class="row">
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
@@ -52,31 +47,6 @@
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png">
 </div>
 
-
-### :desktop_computer:Tools i use:
-<div class="row">
-
- <img width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/128/postman_macos_bigsur_icon_189815.png">
- <img width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/insomnia_94603.png">
-<br/><br/>
- <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/figma_logo_icon_170157.png">
- <img width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/128/adobe_photoshop_macos_bigsur_icon_190436.png">
- <img width="40" src="https://icons.veryicon.com/png/o/food--drinks/fruit-icon-1/avocado-23.png">
-<br/><br/>
-<img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png">
-<img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png">
-<img width="40" src="https://avatars.githubusercontent.com/u/1505683?s=200&v=4">
-<img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_light_babel_icon_130478.png">
-<img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png">
-<img width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/sass_icon_130835.png">
-<img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/webpack_plain_logo_icon_146297.png">
-<br/><br/>
-<img width="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/128/atom_103345.png">
-<img width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vscode_icon_130084.png">
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png">
-<img width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/128/intellij_webstorm_macos_bigsur_icon_190053.png">
-<img width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/sublimetext_94866.png">
-</div>
 
 ### Contact with me:
 
