@@ -35,6 +35,7 @@
   <img width="40" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png">
   <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/npm_original_wordmark_logo_icon_146402.png">   
   <img width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/yarn_icon_130775.png">
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png">
 </div>
 
 
@@ -44,7 +45,6 @@
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_plain_logo_icon_146409.png">
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png">
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/gulp_plain_logo_icon_146485.png">
- <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png">
 </div>
 
 
