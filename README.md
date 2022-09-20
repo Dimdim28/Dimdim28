@@ -22,8 +22,7 @@
 ### :books:Languages: 
 <div class="row">
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
-  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png">
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
+    <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png">
     <img width="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png">
     <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/typescript_original_logo_icon_146317.png">
 </div>
