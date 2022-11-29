@@ -3,11 +3,6 @@
 
 ### :clipboard: My profiles:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&theme=chartreuse-dark&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimdim28&theme=chartreuse-dark)
-
-
 
 <code>🎓 Student: KPI / IM-13</code>
 <code>⚪ Community: KPI FICT</code>
@@ -23,7 +18,7 @@
 <div class="row">
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
     <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png">
-    <img width="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png">
+    <img width="40" src="https://cdn.icon-icons.com/icons2/3397/PNG/512/plus_c_icon_214370.png">
     <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/typescript_original_logo_icon_146317.png">
 </div>
 
@@ -35,12 +30,12 @@
   <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/npm_original_wordmark_logo_icon_146402.png">   
   <img width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/yarn_icon_130775.png">
   <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png">
+   <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png">
 </div>
 
 
 ### :thinking:Want to learn:
 <div class="row">
- <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png">
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_plain_logo_icon_146409.png">
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png">
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/gulp_plain_logo_icon_146485.png">
