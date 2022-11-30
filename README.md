@@ -20,9 +20,10 @@
 <div class="row">
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
     <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png">
-    <img width="40" src="https://cdn.icon-icons.com/icons2/3397/PNG/512/plus_c_icon_214370.png">
+    <img width="40" src="https://user-images.githubusercontent.com/89345760/204885022-60d4f6cc-41fa-4b8a-94c0-d08f59c13842.png">
     <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/typescript_original_logo_icon_146317.png">
 </div>
+
 
 ### :gear:Tech stack:
 <div class="row">
