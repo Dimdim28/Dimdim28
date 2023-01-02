@@ -34,13 +34,13 @@
   <img width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/yarn_icon_130775.png">
   <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png">
    <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png">
+  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png">
 </div>
 
 
 ### :thinking:Want to learn:
 <div class="row">
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_plain_logo_icon_146409.png">
- <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png">
  <img width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/gulp_plain_logo_icon_146485.png">
 </div>
 
