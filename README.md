@@ -1,4 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Dimdim28&color=blue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
 <code>🎓 Student: KPI / IM-13</code>
 <code>⚪ Community: KPI FICT</code>
