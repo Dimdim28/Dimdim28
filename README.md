@@ -1,10 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Dimdim28&color=blue)
 <br>
 
-### :clipboard: My profiles:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimdim28&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <code>🎓 Student: KPI / IM-13</code>
 <code>⚪ Community: KPI FICT</code>
