@@ -7,6 +7,9 @@
 <code>💡<a href="SKILLS.md">skills</a></code>  
 <br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&theme=dark)
+![Dimdim28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimdim28&show_icons=true&theme=dark)
+
 ### :books:Languages: 
 <div class="row">
   <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
