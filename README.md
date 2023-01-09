@@ -25,7 +25,7 @@
   <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/npm_original_wordmark_logo_icon_146402.png">   
   <img width="58" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/yarn_icon_130775.png">
   <img width="58" src="https://res.cloudinary.com/dyyck73ly/image/upload/s3/Mar/mongodb-leaf_euorgb_ntcsqk.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_original_wordmark_logo_icon_146417.png">
+  <img width="58" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
 </div>
 
 
