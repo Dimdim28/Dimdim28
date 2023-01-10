@@ -75,7 +75,7 @@
 | 🟩 Profiler                   |                |                                              |                         |
 | 🟩 Render Props               |                |                                              |                         |
 | 🟩 Strict Mode                |                |                                              |                         |
-| 🟩 Uncontrolled               |                |                                              |                         |
+| 🟩 Uncontrolled Components    |                |                                              |                         |
 
 
 
