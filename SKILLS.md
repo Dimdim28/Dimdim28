@@ -145,6 +145,37 @@
 | ⬜ Coroutine           |                                |                     |                          |
 | ⬜ Goroutine           |                                |                     |                          |
 
+
+## SQL
+
+| Main concepts                     | Syntax            | Agrigate functions      |
+| --------------------------------- | ----------------- | ----------------------- |
+| 🟩 DML                             | 🟩 CREATE DATABASE | 🟩 APPROX_COUNT_DISTINCT |
+| 🟩 selection                       | 🟩 SHOW DATABASES  | 🟩 AVG                   |
+| 🟩 projection                      | 🟩 USE             | 🟩 CHECKSUM_AGG          |
+| 🟩 full projection                 | 🟩 SOURCE          | 🟩 COUNT                 |
+| 🟩 left join                       | 🟩 DROP DATABASE   | 🟩 COUNT_BIG             |
+| 🟩 join                            | 🟩 SHOW TABLES     | 🟩 GROUPING              |
+| 🟩 right join                      | 🟩 CREATE TABLE    | 🟩 GROUPING_ID           |
+| 🟩 alias                           | 🟩 DROP  TABLE     | 🟩 MAX                   |
+| 🟩 direct multiplication of tables | 🟩 DESCRIBE        | 🟩 MIN                   |
+| 🟩 relational division             | 🟩 INSERT          | 🟩 STDEV                 |
+| 🟩 agregate functions              | 🟩 UPDATE          | 🟩 STDEVP                |
+| 🟩 nested subqueries               | 🟩 DELETE          | 🟩 STRING_AGG            |
+|                                    | 🟩 SELECT          | 🟩 SUM                   |
+|                                    | 🟩 SELECT DISTINCT | 🟩 VAR                   |
+|                                    | 🟩 WHERE           | 🟩 VARP                  |
+|                                    | 🟩 GROUP BY        |                         |
+|                                    | 🟩 HAVING          |                         |
+|                                    | 🟩 ORDER BY        |                         |
+|                                    | 🟩 BETWEEN         |                         |
+|                                    | 🟩 LIKE            |                         |
+|                                    | 🟩 IN              |                         |
+|                                    | 🟩 JOIN            |                         |
+|                                    | 🟩 VIEW            |                         |
+|                                    | 🟩 LIMIT           |                         |
+
+
 ## Node.js and backend
 
 | Internals            | Theory                       | Network           | Technique        | Problems             |
