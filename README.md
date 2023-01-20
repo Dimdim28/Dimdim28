@@ -27,19 +27,25 @@
 <div class="row">
   <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png">
   <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png">
+  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_plain_logo_icon_146409.png">
   <img width="58" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png">
   <img width="58" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png">
   <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/npm_original_wordmark_logo_icon_146402.png">   
   <img width="58" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/yarn_icon_130775.png">
   <img width="58" src="https://res.cloudinary.com/dyyck73ly/image/upload/s3/Mar/mongodb-leaf_euorgb_ntcsqk.png">
   <img width="58" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+  <img width="58" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.png">
+  <img width="58" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
 </div>
 
 
 ### :thinking:Want to learn:
 <div class="row">
- <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_plain_logo_icon_146409.png">
  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/gulp_plain_logo_icon_146485.png">
+ <img width="58px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
+ <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
+ <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
+ <img width="58px" src="https://docs.nestjs.com/assets/logo-small.svg">
 </div>
 
 
