@@ -7,7 +7,7 @@
 <code>💡<a href="SKILLS.md">skills</a></code>  
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&theme=dark&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&theme=dark&layout=compact&langs_count=12)
 ![Dimdim28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimdim28&show_icons=true&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimdim28&theme=dark" alt="Dimdim28" /></p>
 
