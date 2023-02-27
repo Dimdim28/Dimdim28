@@ -7,9 +7,9 @@
  >
  > My first project with React and Redux, I used free version of SamuraiJsApi.
 
- > [ImForms](https://github.com/Dimdim28/ImForms)
+ > [ImForms](https://github.com/Dimdim28/ImForms) - completed
  >  
- > My coursework in databases for 2022 - 2023. Google forms analog, still in progress =). 
+ > My coursework in databases for 2022 - 2023. Google forms analog where I was a teamlead. 
  
  >[React Landing page](https://github.com/Dimdim28/Responsive-Modern-UI-UX-Website-REACT)  -  completed
  >
@@ -19,11 +19,11 @@
  >
  > A small site for developing layout skills, used clip-path property to create 3D illusion from image.
  
- > [queueBot](https://github.com/Dimdim28/-queue-bot)
+ > [queueBot](https://github.com/Dimdim28/-queue-bot) - completed, but I maybe will add new abilities soon
  >
- > Telegram bot with using MongoDB to help me create queues for passing laboratory work at the university.  Still in the making
+ > Telegram bot with using MongoDB to help me create queues for passing laboratory work at the university. 
  
- > [Tanks 2D game](https://github.com/Dimdim28/Tanks.js)  -  completed
+ > [Tanks 2D game](https://github.com/Dimdim28/Tanks.js)  -  completed, but I will rewrite it
  > 
  > My coursework in programming for 2021 - 2022. Tanks game with 4 enemies on every level, points, different types of tanks, music and voice actions. 
  
