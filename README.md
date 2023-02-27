@@ -5,6 +5,7 @@
 <code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Software engineer / Frontend</code>
 <code>💡<a href="SKILLS.md">skills</a></code>  
+<code>💻<a href="PROJECTS.md">projects</a></code> 
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimdim28&theme=dark&layout=compact&langs_count=12)
