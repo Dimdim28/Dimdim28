@@ -39,6 +39,7 @@
   <img width="58" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
   <img width="58" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.png">
   <img width="58" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
+  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png">
 </div>
 
 
@@ -48,6 +49,8 @@
  <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
  <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
  <img width="58px" src="https://docs.nestjs.com/assets/logo-small.svg">
+ <img width="58px" src="https://avatars.githubusercontent.com/u/24776643?s=280&v=4">
+  <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
 </div>
 
 
