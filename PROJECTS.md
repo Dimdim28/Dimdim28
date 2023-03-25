@@ -28,11 +28,11 @@
  > 
  > Test task on implemented with Next.js 
  
- >[React Social Network with SamuraiJs api](https://github.com/Dimdim28/Social-network-with-samurai.js-api)  -  completed
+ >[React Social Network with SamuraiJs api](https://github.com/Dimdim28/Social-network-with-samurai.js-api)  -  completed but I will change all styles
  >
  > My first project with React and Redux, I used free version of SamuraiJsApi.
 
- > [Tanks 2D game](https://github.com/Dimdim28/Tanks.js)  -  completed, but I will rewrite it
+ > [Tanks 2D game](https://github.com/Dimdim28/Tanks.js)  -  completed but I will rewrite it
  > 
  > My coursework in programming for 2021 - 2022. Tanks game with 4 enemies on every level, points, different types of tanks, music and voice actions. 
  
