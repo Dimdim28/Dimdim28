@@ -93,7 +93,7 @@
 | 🟩  combineReducers() |                        |                  |
 | 🟩  initialState      |                        |                  |
 | 🟩  Thunk             |                        |                  |
-
+| 🟩  FLUX              |                        |                  |
 
 
 ## Multi-paradigm programming
