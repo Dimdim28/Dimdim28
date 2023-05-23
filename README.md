@@ -37,7 +37,7 @@
   <img width="58" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/yarn_icon_130775.png">
   <img width="58" src="https://res.cloudinary.com/dyyck73ly/image/upload/s3/Mar/mongodb-leaf_euorgb_ntcsqk.png">
   <img width="58" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
-  <img width="58" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.png">
+  <img width="58" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png">
   <img width="58" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
   <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png">
 </div>
