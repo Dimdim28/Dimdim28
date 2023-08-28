@@ -60,7 +60,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/provodnik_dimitriy)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000)](mailto:wwwdimanes1@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=000080)](https://discordapp.com/users/685188807305330708/)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/dima-nesterov-b76366236/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/nesterov-d/)
 
 
 
