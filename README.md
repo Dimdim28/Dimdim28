@@ -16,42 +16,22 @@
 
 ### :books:Languages: 
 
-<div class="row">
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">    
-<img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-<img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/typescript_original_logo_icon_146317.png">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,py)](https://skillicons.dev)
 
 
 ### :gear:Tech stack:
-<div class="row">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png">
-  <img width="58" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_plain_logo_icon_146409.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png">
-  <img width="58" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png">
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/npm_original_wordmark_logo_icon_146402.png">   
-  <img width="58" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/yarn_icon_130775.png">
-  <img width="58" src="https://res.cloudinary.com/dyyck73ly/image/upload/s3/Mar/mongodb-leaf_euorgb_ntcsqk.png">
-  <img width="58" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
-  <img width="58" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png">
-  <img width="58" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
-  <img width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,nextjs,vite,sass,bootstrap,tailwind,materialui,nodejs,express,graphql,mongodb,mysql,jest&perline=8)](https://skillicons.dev)
+
+
+### :computer:Enviroment:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,webpack,vscode,atom,figma,postman,linux,docker)](https://skillicons.dev)
 
 
 ### :thinking:Want to learn:
-<div class="row">
- <img width="58" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/gulp_plain_logo_icon_146485.png">
- <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
- <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
- <img width="58px" src="https://docs.nestjs.com/assets/logo-small.svg">
- <img width="58px" src="https://avatars.githubusercontent.com/u/24776643?s=280&v=4">
-  <img width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=gulp,vue,nuxtjs,nestjs,postgres)](https://skillicons.dev)
 
 
 ### Contact with me:
