@@ -14,22 +14,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dimdim28&theme=juicyfresh" alt="Dimdim28" /></a> </p>
 
-### :books:Languages: 
+### 📚 Languages: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,py)](https://skillicons.dev)
 
 
-### :gear:Tech stack:
+### ⚙️ Tech stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,nextjs,vite,sass,bootstrap,tailwind,materialui,nodejs,express,graphql,mongodb,mysql,jest&perline=8)](https://skillicons.dev)
 
 
-### :computer:Enviroment:
+### 💻 Enviroment:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,webpack,vscode,atom,figma,postman,linux,docker)](https://skillicons.dev)
 
 
-### :thinking:Want to learn:
+### 🎯 Want to learn:
 
 [![My Skills](https://skillicons.dev/icons?i=gulp,vue,nuxtjs,nestjs,postgres)](https://skillicons.dev)
 
